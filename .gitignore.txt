@@ -1,0 +1,25 @@
+[Libraries]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+[IDE files]
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+
+[System files]
+.DS_Store
+*.swp
+*.tmp
+Thumbs.db
+
